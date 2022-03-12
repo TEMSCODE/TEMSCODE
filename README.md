@@ -1,6 +1,6 @@
-- 👋 hello word, this is the TEMS code
+- 👋 hello word, TEMS OPEN CODE
 - 👀 operate on the Binance Smart chain
-- 🌱 starting project...
+- 🌱 starting project
 - 💞️ saving the planet 
 - 📫 finance@thelements.org
 
