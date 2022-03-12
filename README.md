@@ -1,4 +1,4 @@
-- 👋 hello word, TEMS OPEN CODE
+- 👋 hello word, {TEMS OPEN CODE}
 - 👀 operate on the Binance Smart chain
 - 🌱 starting project
 - 💞️ saving the planet 
